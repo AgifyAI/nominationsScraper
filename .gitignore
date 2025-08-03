@@ -1,0 +1,65 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements IPython
+.ipynb_checkpoints
+
+# Fichiers de configuration locaux
+.env
+.env.local
+.env.*.local
+
+# Fichiers de logs et bases de données
+*.log
+*.sql
+*.sqlite
+
+# Dossiers de dépendances
+node_modules/
+bower_components/
+
+# Fichiers de configuration d'éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Fichiers de sortie
+data/
+output/
+*.csv
+*.xlsx
+*.json
